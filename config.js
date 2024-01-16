@@ -70,8 +70,8 @@ module.exports = {
   footer: process.env.Footer || "© Queen Anya Bot",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  ownername: process.env.Owner_Name || "FK HACKER",
+  ownernumber: process.env.Owner_Number || "923277712440",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
@@ -79,7 +79,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID", 
+  sessionId: process.env.SESSION_ID || "UHpHMUh_Queen-Anya_ZTms=", 
   image_1: readFileSync('./lib/Assets/image_1.jpg'), // Thumbnail for allmenu command
   image_2: readFileSync('./lib/Assets/image_2.jpg'), // null image
   image_3: readFileSync("./lib/Assets/image_3.jpg"), // Thumbnail for Dashboard
@@ -112,9 +112,9 @@ global.myweb = process.env.Web || "https://github.com/PikaBotz"
 global.footer = process.env.Footer || "© Queen Anya Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
+global.ownername = process.env.Owner_Name || "FK HACKER" 
+global.ownernumber = process.env.Owner_Number || "923277712440" 
+global.adress = process.env.Continent || "Asia, Pakistan, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
 global.email = process.env.Email_Id || "example@example.com" 
